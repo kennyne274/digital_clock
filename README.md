@@ -1,7 +1,7 @@
 # digital_clock
-a basic simple digital clock project
+a simple digital clock project
 
- Digital Clock with Python (Tkinter)
+ Digital Clock with Python 
 
 A simple digital clock built with Python and Tkinter.
 This project displays the current time and date on a black background with neon-style digital fonts.
@@ -10,17 +10,13 @@ This project displays the current time and date on a black background with neon-
 	•	Real-time digital clock (HH:MM:SS)
 	•	Date display (YYYY-MM-DD)
 	•	Neon-style colors on a dark background
-	•	Fixed window size for a clean UI
 	•	Beginner-friendly and easy to extend
 
-  Technologies Used
-	•	Python 3
+
 	•	Tkinter (GUI)
 	•	time module
 
-  Preview
 
-A black background digital clock with cyan time and neon green date.
 
   Notes
   
