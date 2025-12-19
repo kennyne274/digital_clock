@@ -23,6 +23,7 @@ This project displays the current time and date on a black background with neon-
 A black background digital clock with cyan time and neon green date.
 
   Notes
+  
 	•	The project uses the DS-Digital font.
 	•	If the font is not installed, you can change it to Courier in the code.
 
