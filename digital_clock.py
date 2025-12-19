@@ -29,7 +29,7 @@ clock_label = tk.Label(
     bg="#2B2B2B",
     fg="cyan"  
 )
-clock_label.pack(expand=True)
+clock_label.pack(pady=(0, 15)
 
 # ===== Clock update function =====
 def clock():
