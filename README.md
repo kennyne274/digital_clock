@@ -20,6 +20,10 @@ This project displays the current time and date on a black background with neon-
 	•	Tkinter (GUI)
 	•	time module
 
+	
+## Screenshot
+
+![Digital Clock running on my screen](IMG_0294.png)
 
 
   Notes
