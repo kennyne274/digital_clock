@@ -26,6 +26,14 @@ This project displays the current time and date on a black background with neon-
 ![Digital Clock running on my screen](IMG_0294.png)
 
 
+How to Run
+
+
+	1.	Make sure Python 3 is installed.
+	2.	(Optional) Install the DS-Digital font (if unavailable, change it to “Courier” in the code).
+	3.	Run it in the terminal:
+
+
   Notes
   
   
